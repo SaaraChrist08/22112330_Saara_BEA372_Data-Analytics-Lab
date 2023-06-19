@@ -16,7 +16,7 @@ DALMP.py: Contains the Python code for analyzing the bank dataset.
 1. Ensure that you have Python installed on your system.
 2. Clone this repository or download the DALMP.py file.
 3. Modify the file path in the code to match the location of your bank.csv file.
-4. Open a terminal or command prompt and navigate to the directory where the analyze_bank_data.py file is located.
+4. Open a terminal or command prompt and navigate to the directory where the DALMP.py file is located.
 
 ## Functions
 # header()
